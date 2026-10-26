@@ -1,0 +1,3 @@
+interface:
+  display_name: "视频分镜提示词"
+  short_description: "把剧情与参考图写成通用或指定平台的 AI 视频提示词，按需展开分镜"
